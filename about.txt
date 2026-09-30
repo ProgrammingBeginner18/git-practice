@@ -1,1 +1,2 @@
 This project is for learning Git and GitHub.
+I am practicing feature branches and pull requests.
